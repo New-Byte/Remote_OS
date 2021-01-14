@@ -1,0 +1,30 @@
+@import	"https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css";
+
+body{
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+	background: #0E5AC6;
+}
+
+.login-box{
+	width: 580px;
+	height: 500px;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+	border: 2px solid #ccc;
+	padding: 30px;
+	background-color: #fff;
+	color: black;
+	border-radius: 15px;
+
+}
+.login-box h1{
+	float: left;
+	font-size: 30px;
+	border-bottom: 6px solid #4caf50;
+	margin-bottom: 50px;
+	padding: 7px 0;
+}
