@@ -3,10 +3,12 @@ Remotely login into the server to run linux commands or programs(Like AWS).
 My PHP miniproject for college.
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 ## Environment Used
+---------------------------------------------------------------------------------------------------------------------------------------------------
 ### 1. Sublime text editor for coding.
 ### 2. XAMPP for apache and MySQL servers.
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 ## Scripting/Programming languages used
+---------------------------------------------------------------------------------------------------------------------------------------------------
 ### 1. HTML
 ### 2. CSS
 ### 3. PHP
@@ -14,6 +16,7 @@ My PHP miniproject for college.
 ### 5. MySQL Queries to handle database.
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 ## NOTE
+---------------------------------------------------------------------------------------------------------------------------------------------------
 ### 1. If anyone is running this project, they need to change the port number in client/database.php to default port number of thier MySQL Server.
 ### 2. Code from 'client' directory is for web-server.
 ### 3. Code from 'server' directory is for linux server to run command on.
